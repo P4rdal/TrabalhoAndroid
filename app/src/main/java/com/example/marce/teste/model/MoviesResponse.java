@@ -4,6 +4,12 @@ package com.example.marce.teste.model;
  * Created by marce on 19/12/2017.
  */
 
+/**
+ * Created by marce on 19/12/2017.
+ */
+
+
+
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
